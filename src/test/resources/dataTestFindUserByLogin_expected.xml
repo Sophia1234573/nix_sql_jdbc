@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <PERSON id='1' role_id='2' first_name='sophia' last_name='denisovich' login='sophia1987' dob='1987-05-28 00:00:00' password='secretpassword' email='sophia@gmail.com'/>
+</dataset>
